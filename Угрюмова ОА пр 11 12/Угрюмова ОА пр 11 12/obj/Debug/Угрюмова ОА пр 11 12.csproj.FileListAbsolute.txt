@@ -1,0 +1,11 @@
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова ОА пр 11 12\Угрюмова ОА пр 11 12\bin\Debug\Угрюмова ОА пр 11 12.exe.config
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова ОА пр 11 12\Угрюмова ОА пр 11 12\bin\Debug\Угрюмова ОА пр 11 12.exe
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова ОА пр 11 12\Угрюмова ОА пр 11 12\bin\Debug\Угрюмова ОА пр 11 12.pdb
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова ОА пр 11 12\Угрюмова ОА пр 11 12\obj\Debug\Угрюмова ОА пр 11 12.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова ОА пр 11 12\Угрюмова ОА пр 11 12\obj\Debug\Угрюмова ОА пр 11 12.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова ОА пр 11 12\Угрюмова ОА пр 11 12\obj\Debug\Угрюмова_ОА_пр_11_12.Student_work.resources
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова ОА пр 11 12\Угрюмова ОА пр 11 12\obj\Debug\Угрюмова_ОА_пр_11_12.Properties.Resources.resources
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова ОА пр 11 12\Угрюмова ОА пр 11 12\obj\Debug\Угрюмова ОА пр 11 12.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова ОА пр 11 12\Угрюмова ОА пр 11 12\obj\Debug\Угрюмова ОА пр 11 12.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова ОА пр 11 12\Угрюмова ОА пр 11 12\obj\Debug\Угрюмова ОА пр 11 12.exe
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова ОА пр 11 12\Угрюмова ОА пр 11 12\obj\Debug\Угрюмова ОА пр 11 12.pdb
